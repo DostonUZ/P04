@@ -13,3 +13,7 @@ Here, you can find my practical work from Computer Studies course at Riga Techni
 ```[dostonhamrakulov]
 // Doston Hamrakulov 
 ```
+
+### First commit and push :
+
+I have added the title and pushed the repository.
