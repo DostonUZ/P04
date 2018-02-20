@@ -14,7 +14,9 @@ Here, you can find my practical work from Computer Studies course at Riga Techni
 // Doston Hamrakulov 
 ```
 
-### First commit and push :
+### Description of practical work:
+
+I had a problem during the implementation of the task, the problem was that I used my account and I cloned new project from new account but I didnt change the account in git bash. Then I got <b>"remote: Permission to DostonUZ/P04.git denied to dostonhamrakulov"</b>. Even if I changed the user.name and user.email I could not push repository. SO here, you can find all steps which I have done until I solved the problem
 
 I have added the title and tried to push the repository.
 
@@ -30,7 +32,8 @@ Here you can see the clear problem and I tried to changes user from commands but
 Finally, I had to delete <b> Git Hub account</b> from <b>Window Credential Manager</b>:
 <img width="900px" height="500px" src="https://github.com/DostonUZ/P04/blob/master/Screenshots/images_4.png" />
 
-Then I logged in my new account:
+Then I logged in my new account
+
 <img width="600px" height="300px" src="https://github.com/DostonUZ/P04/blob/master/Screenshots/images_5.PNG" />
 
 
