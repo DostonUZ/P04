@@ -16,4 +16,6 @@ Here, you can find my practical work from Computer Studies course at Riga Techni
 
 ### First commit and push :
 
-I have added the title and pushed the repository.
+I have added the title and tried to push the repository.
+
+<img width="250px" height="350px" src="https://github.com/DostonUZ/P04/blob/master/Screenshots/images_1.PNG" />
