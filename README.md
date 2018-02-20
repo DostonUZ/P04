@@ -28,4 +28,12 @@ Here you can see the clear problem and I tried to changes user from commands but
 
 
 Finally, I had to delete <b> Git Hub account</b> from <b>Window Credential Manager</b>:
-<img width="900px" height="500px" src="https://github.com/DostonUZ/P04/blob/master/Screenshots/images_4.PNG" />
+<img width="900px" height="500px" src="https://github.com/DostonUZ/P04/blob/master/Screenshots/images_4.png" />
+
+Then I logged in my new account:
+<img width="600px" height="300px" src="https://github.com/DostonUZ/P04/blob/master/Screenshots/images_5.PNG" />
+
+
+Here is the final solution to my problem:
+<img width="750px" height="300px" src="https://github.com/DostonUZ/P04/blob/master/Screenshots/images_6.PNG" />
+
